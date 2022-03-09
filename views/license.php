@@ -11,7 +11,7 @@
  * DISCLAIMER
  * Do not edit or add to this file if you wish to upgrade this extension/plugin/module to newer version in the future.
  *
- * @author     D2dSoft Developers <develop@d2d-soft.com>
+ * @author     D2dSoft Developers <developer@d2d-soft.com>
  * @copyright  Copyright (c) 2021 D2dSoft (https://d2d-soft.com)
  * @license    https://d2d-soft.com/license/AFL.txt
  */
@@ -55,7 +55,7 @@
 
                         <div class="form-group" style="margin-top: 10px;">
                             <p>Please fill your license in the form and click the "Install" button. The tool auto-downloads the newest library from D2dSoft's server and installs it. After that, you can run the migration.</p>
-                        <p>If you don't have the license, please go to the <a href="https://d2d-soft.com/">D2dSoft website</a> to buy a license or try to run the free migration.</p>
+                        <p>If you don't have the license, please go to the <a href="">D2dSoft website</a> to buy a license or try to run the free migration.</p>
                         </div>
                     </div>
                     <div class="box-action">
