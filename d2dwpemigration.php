@@ -17,9 +17,9 @@
  */
 
 /*
-Plugin Name: Wp-eCommerce Migration
+Plugin Name: D2dSoft Wp-eCommerce Data Migration
 Plugin URI: https://d2d-soft.com
-Description: Wp-eCommerce Migration by D2dSoft will let you to import/export all your products, orders, customers, categories, reviews and other entities, preserving relations between them.
+Description: Wp-eCommerce Data Migration by D2dSoft will let you to import/export all your products, orders, customers, categories, reviews and other entities, preserving relations between them.
 Author: D2dSoft
 Version: 1.0.0
 Author URI: https://d2d-soft.com
