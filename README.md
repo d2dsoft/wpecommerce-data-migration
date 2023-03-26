@@ -8,6 +8,7 @@
 - [Drupal Commerce to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/367-drupal-commerce-to-wp-ecommerce-migration-service.html)
 - [HikaShop to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/454-1867-hikashop-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [J2Store to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/497-2062-j2store-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
+- [JigoShop to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/556-2337-jigoshop-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [Loaded Commerce to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/97-407-loaded-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [Magento to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/98-412-magento-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [OpenCart to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/99-417-opencart-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
@@ -29,6 +30,7 @@
 - [Drupal Commerce](https://drupalcommerce.org/)
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
+- JigoShop
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - [OpenCart](https://www.opencart.com/)
