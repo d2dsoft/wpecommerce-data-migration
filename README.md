@@ -9,8 +9,10 @@
 - [HikaShop to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/454-1867-hikashop-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [J2Store to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/497-2062-j2store-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [JigoShop to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/556-2337-jigoshop-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
+- [JoomShopping to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/606-2577-joomshopping-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [Loaded Commerce to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/97-407-loaded-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [Magento to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/98-412-magento-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
+- [MarketPress to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/581-2457-marketpress-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [OpenCart to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/99-417-opencart-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [osCommerce to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/100-422-oscommerce-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [OXID-eShop to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/101-427-oxid-eshop-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
@@ -31,8 +33,10 @@
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
 - JigoShop
+- [JoomShopping](https://extensions.joomla.org/extension/joomshopping/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
+- MarketPress
 - [OpenCart](https://www.opencart.com/)
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
@@ -55,3 +59,8 @@
 ## License
 
 [AFL](https://d2d-soft.com/license/AFL.txt)
+
+## Contact US
+Website: https://d2d-soft.com/ \
+Email: contact@d2d-soft.com \
+Youtube: https://www.youtube.com/@d2dsoft 
