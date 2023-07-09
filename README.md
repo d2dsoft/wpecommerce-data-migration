@@ -2,6 +2,7 @@
 [WP eCommerce Data Migration Plugin](https://d2d-soft.com/28-wp-ecommerce-migration) is a solution for migrating data to WP eCommerce from another platform. The plugin support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The plugin can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/785-7262-americommerce-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [BigCommerce to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/427-1737-bigcommerce-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [CS-Cart to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/330-1417-cs-cart-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [CubeCart to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/96-402-cubecart-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
@@ -17,6 +18,7 @@
 - [osCommerce to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/100-422-oscommerce-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [OXID-eShop to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/101-427-oxid-eshop-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [PrestaShop to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/102-432-prestashop-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
+- [Salesforce to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/733-6891-salesforce-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [Shopify to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/389-1552-shopify-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [VirtueMart to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/103-437-virtuemart-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 - [Volusion to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/655-6077-volusion-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
@@ -28,6 +30,7 @@
 - [ZenCart to WP-eCommerce Migration](https://d2d-soft.com/wp-ecommerce-migration/108-462-zencart-to-wp-ecommerce-migration-plugin.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -43,6 +46,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
